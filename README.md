@@ -23,9 +23,9 @@ The following **optional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented features:
+Here is a walkthrough of implemented features:
 
-[![Video Walkthrough](https://cdn.loom.com/sessions/thumbnails/e30c2119d8224c939274cc7d3535e211-169.gif)](https://www.loom.com/share/e30c2119d8224c939274cc7d3535e211)
+[![Web102 Video Walkthrough](https://cdn.loom.com/sessions/thumbnails/e30c2119d8224c939274cc7d3535e211-6038acbfb76276a4-full-play.gif)](https://www.loom.com/share/e30c2119d8224c939274cc7d3535e211)
 
 <!-- Replace this with whatever GIF tool you used! -->
 
