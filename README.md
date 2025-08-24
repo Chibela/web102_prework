@@ -6,7 +6,7 @@ Submitted by: **Chibela Changwe**
 
 🔗 **Live Site:** [View Project Here](https://chibela.github.io/web102_prework/)
 
-Time spent: **5** hours spent in total
+Time spent: **7** hours spent in total
 
 ## Required Features
 
@@ -25,11 +25,11 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://www.loom.com/share/e30c2119d8224c939274cc7d3535e211?sid=0330a9dd-0bc1-4fff-a26f-8e321cafd992' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 
-GIF created with ...
+GIF created with **Loom**
 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
@@ -38,11 +38,12 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Some of the challenges I faced while building the website included making small errors when using JavaScript array methods such as `reduce()` and `filter()`. For example, I mistakenly wrote `reduced` instead of `reduce`, which caused the total raised money not to display correctly. Similarly, small typos caused the filters not to function as expected. Debugging these issues taught me the importance of paying close attention to method names and carefully testing functionality.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Chibela Changwe]
+    Based on starter code provided by CodePath
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
